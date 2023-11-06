@@ -9,10 +9,10 @@ Försök att sammanfatta vad du har lärt dig.
 
 23 11 06
 ----------
-jag har jobbat med adam och hugo, vi gjorde hela test 8.
-det har gått bra,
-de svåra var att veta vilka ord man skulle använda så som index. append och pop.
-kolla igenom rikkard.karlsson.se
-https://rikardkarlsson.se/programmering/uppgifter.php?url=7100-listor
-har lärt mig mer om listor
+#jag har jobbat med adam och hugo, vi gjorde hela test 8.
+#det har gått bra,
+#de svåra var att veta vilka ord man skulle använda så som index. append och pop.
+#kolla igenom rikkard.karlsson.se
+#https://rikardkarlsson.se/programmering/uppgifter.php?url=7100-listor
+#har lärt mig mer om listor
 
